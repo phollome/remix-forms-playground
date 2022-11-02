@@ -8,6 +8,9 @@ export default function Index() {
         <li>
           <Link to="/conform">Conform</Link>
         </li>
+        <li>
+          <Link to="/conform-domain-functions">Conform Domain Functions</Link>
+        </li>
       </ul>
     </div>
   );
